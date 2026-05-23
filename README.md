@@ -9,5 +9,6 @@ A curated list of awesome tourism resources, programming tools, and digital proj
 - [Culture](#culture)
 
 ## Tourism
+### Maps
 ## Programming
 ## Culture
